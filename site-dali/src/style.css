@@ -2,3 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+.grid-cols-3 {
+    width: 100vw;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}

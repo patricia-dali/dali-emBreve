@@ -19,17 +19,16 @@ export default {
 	body {
 		padding: 0%;
 		margin: 0px;
-		background-color: #fcf7fc;
+		background-color: #FFFDF3;
 	}
 	
 	#app {
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
 
-		width: 100vw;
 		height: 100vh;
 		display: grid;
-		grid-template-rows: 90px 1fr 40px;
+		grid-template-rows: 80px 1fr 40px;
 		grid-template-areas: 
 			"header"
 			"content";
