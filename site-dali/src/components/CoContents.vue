@@ -5,13 +5,63 @@
             <h2>A Surreal Way</h2>
             <h3>of Doing Things</h3>
         </div>
+            <!-- z-10 animate-spin-slow overflow-hidden ... -->
+        <div class="rod1">
+        </div>
 
         <div class="img1 border-solid border-2 border-[#120F82] ...">
         </div>
 
-        <div class="text2">
-            olá
-        </div>  
+        <div class="exc1 relative overflow-auto"> 
+           <div class="max-w-md mx-auto  min-w-0 "> 
+            <div class="flex"> 
+             <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
+              <div class="flex flex-col items-center justify-center gap-3"> 
+               <img class="img2" src="./imagens/cardProjet.png"> 
+              </div> 
+             </div> 
+             <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
+              <div class="flex flex-col items-center justify-center gap-3"> 
+               <img class="img2" src="./imagens/cardProjet.png"> 
+              </div> 
+             </div> 
+             <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
+              <div class="flex flex-col items-center justify-center gap-3"> 
+               <img class="img2" src="./imagens/cardProjet.png"> 
+              </div> 
+             </div> 
+             <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
+              <div class="flex flex-col items-center justify-center gap-3"> 
+               <img class="img2" src="./imagens/cardProjet.png"> 
+              </div> 
+             </div> 
+             <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
+              <div class="flex flex-col items-center justify-center gap-3"> 
+               <img class="img2" src="./imagens/cardProjet.png"> 
+              </div> 
+             </div> 
+             <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
+              <div class="flex flex-col items-center justify-center gap-3"> 
+               <img class="img2" src="./imagens/cardProjet.png"> 
+              </div> 
+             </div>
+            </div>
+           </div>
+          </div>
+
+        <div class="barra flex">
+            <div class=" ok1">
+                <button class="bot2 rounded-md order-solid border border-[#120F82] ...">&lt;</button>
+            </div>
+            <div class=" poj1">
+                <a href="">Ver todos os projetos</a>
+            </div>
+            <div class=" ok2">
+                <button class="bot2 rounded-md order-solid border border-[#120F82] ...">&gt;</button>
+            </div>
+        </div>
+
+        <div>Olá</div>
 
     </contents>
 </template>
@@ -20,10 +70,12 @@
 export default {
     name: 'CoContents'
 }
+
 </script>
 
 <style>
     .content {
+        width: 100vw;
         grid-area: content;
         padding-top: 4%;
     }
@@ -56,12 +108,54 @@ export default {
         background-size: cover;
         background-position: 89%;
         background-repeat: no-repeat;
-        width: 87vw;
+        width: 88vw;
         height: 37vh;
         margin: auto;
     }
-    .text2 {
-        padding-block: 10%;
+    .rod1 {
+        position: absolute;
+        background-image: url(./imagens/Arc.png);
+        background-size: cover;
+        top: 33vh;
+        right: 0;
+        width: 16vw;
+        height: 35vh;
+        z-index: -1;
+    }
+    .exc1 {
+        margin-top: 12vh;
+    }
+    .img2 {
+        width: 19vw;
+        height: auto;
+    }
+    .barra {
+        margin-bottom: 12vh;
+    }
+    .poj1 {   
+        position: relative;
+        width: 40vw;
+        left: 30vw;
         text-align: center;
+    }
+    .ok1 {
+        position: absolute;
+        margin-left: 5vw;
+    }
+    .ok2 {
+        position: absolute;
+        right: 5vw;
+    }
+    .bot2 {
+        background-color: #FF7E74;
+        color: #FFFFFF;
+        font-weight: bold;
+        font-family: 'Anuphan', sans-serif;
+        font-size: 1.2rem;
+        margin-left: auto;
+        margin-right: auto; 
+        width: 40px;
+        height: 33px;
+        box-shadow: -3px 3px #120F82;
     }
 </style>

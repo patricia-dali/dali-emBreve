@@ -10,7 +10,7 @@
                 <a href="">Serviços</a>
             </div>
             <div class="botao ">
-                <button class="rounded-md order-solid border border-[#120F82] ...">Contato</button>
+                <button class="button1 rounded-md order-solid border border-[#120F82] ...">Contato</button>
             </div>
         </div>
     </header>
@@ -24,11 +24,11 @@ export default {
 
 <style>
     .header {
-        grid-area: header;
+        height: 80px;
         display: flex;
         padding-left: 5%;
         padding-right: 5%;
-        margin: 0;
+        margin-bottom: 4%;
         align-items: center;
         box-shadow: 0px 1px 5px  #cfcccc;
     }
@@ -47,7 +47,7 @@ export default {
     .botao {
         text-align: right;
     }
-    button {
+    .button1 {
         background-color: #FF7E74;
         color: #FFFFFF;
         font-weight: bold;
@@ -58,7 +58,7 @@ export default {
         margin-right: auto; 
         width: 120px;
         height: 33px;
-        box-shadow: -3px 3px #120F82; 
+        box-shadow: -3px 3px #120F82;
     }
     button:active {
         box-shadow: 0 0px #120F82;

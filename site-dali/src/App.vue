@@ -26,14 +26,13 @@ export default {
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
 
-		width: 100vw;
 		height: 100vh;
-		display: grid;
-		grid-template-rows: 90px 1fr 40px;
+		/* display: flex;
+		grid-template-rows: 90px 9fr 40px;
+		grid-template-columns: 100vw;
 		grid-template-areas: 
 			"header"
-			"content";
-
+			"content"; */
 	}
 
 </style>
