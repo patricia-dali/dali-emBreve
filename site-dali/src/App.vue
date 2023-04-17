@@ -1,5 +1,6 @@
 <template>
 	<div id="app">
+		<!-- Patrícia Albuquerque -->
 		<CoHeader />
 		<CoContents />
 		<CoRodape />
