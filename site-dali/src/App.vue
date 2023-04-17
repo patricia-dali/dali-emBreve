@@ -2,16 +2,18 @@
 	<div id="app">
 		<CoHeader />
 		<CoContents />
+		<CoRodape />
 	</div>
 </template>
 
 <script>
 import CoHeader from "./components/CoHeader.vue"
 import CoContents from "./components/CoContents.vue"
+import CoRodape from "./components/CoRodape.vue"
 
 export default {
 	name: "App",
-	components: { CoHeader, CoContents }
+	components: { CoHeader, CoContents, CoRodape }
 }
 </script>
 

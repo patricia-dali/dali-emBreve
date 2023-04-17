@@ -61,7 +61,105 @@
             </div>
         </div>
 
-        <div>Olá</div>
+        <div class="degrad">
+        <div class="trap0"></div>
+        <div class="trap1"></div>
+        </div>
+
+        <div>
+            <div class="dali104">
+                <img src="./imagens/dali104.png" width="350">
+            </div>
+            <div class="tex104 text-left ...">
+                <p class="pet">
+                    Ser surreal. Caracterizado pela expressão do pensamento de maneira espontânea e automática.
+                    Criando um ambiente livre de amarras que possa trazer soluções que vão além do usual.
+                </p>
+                <p class="pet">    
+                    Sucesso com novas ideias. A Dalí é um espaço com colaboradores qualificados para criação de novos projetos e protótipos.
+                    Projetos que possam impactar e inovar.
+                </p>
+                <p class="pet">
+                    Trajetória completa. Todos os setores da Dalí são interligados pela imersão tecnológica. 
+                    Sendo cada um independente em suas especificidades. Mas dependentes na experiência total de um Marketing estruturado, 
+                    um protótipo bem executado e uma boa navegação em seu projeto ;)
+                </p>
+            </div>
+            <div class="tex204">
+                <p class="pet">
+                    Trazendo o surreal para o verídico,  o concreto para a imaginação e dando início ao infinito é assim, Dalí.
+                </p>
+            </div>
+        </div>
+
+        <div class="gro">
+            <div>
+                <p class="BeS">
+                    Be<br>
+                    Surreal
+                </p>
+            </div>
+            
+            <div class="trapezium1"></div>   
+            <div class="carAzu flex">
+                <img src="./imagens/cardUX.png" id="tac">
+                <img src="./imagens/cardDev.png" id="tac">
+                <img src="./imagens/cardBranding.png" id="tac">
+            </div>
+            <div class="trapezium2"></div>
+        </div>
+
+        <div class="text-center leading-7 ...">
+            <p class="d1">Dream</p>
+            <p class="d2">Team</p>
+        </div>
+
+        <div class="flex justify-center ...">
+            <img src="./imagens/timeGar.png" id="uri">
+            <img src="./imagens/timeMat.png" id="uri">
+            <img src="./imagens/timeGabi.png" id="uri">
+        </div>
+
+<!-- <div class="rod1 z-10 animate-spin-slow overflow-hidden"></div> -->
+
+        <div class="trapezium4"></div> 
+        <div class="fund1">
+            <div class="rod2">
+                <div class="da6 flex justify-center ...">
+                </div>
+            </div>
+            <div class="grid grid-cols-7 justify-items-center ...">
+                <div class="lef flex"><a href="">Web Site</a><h7>●</h7></div>
+                <div class="lef flex"><a href="">Aplicativo</a><h7>●</h7></div>
+                <div class="lef flex"><a href="">UX Design</a><h7>●</h7></div>
+                <div class="lef flex"><a href="">UI Design</a><h7>●</h7></div>
+                <div class="lef flex"><a href="">Product Development</a><h7>●</h7></div>
+                <div class="lef flex"><a href="">Web Site</a><h7>●</h7></div>
+                <div class="lef flex"><a href="">Aplicativo</a><h7>●</h7></div>
+            </div>
+        </div>
+        
+        <div class="ele1 grid grid-cols-2">
+            <div>
+                <div class="ra1 grid grid-cols-2"> 
+                    <a href="">Projetos</a>
+                    <a href="">Sobre nós</a>
+                    <a href="">Serviços</a>
+                    <a href="">Time</a>
+                    <a href="">LinkedIn</a>
+                    <a href="">Instagram</a>
+                    <a href="">Twitter</a>
+                </div>
+                <div class="ra2">
+                    <a href="">Contato</a>
+                </div>
+            </div>
+            <div class="rex flex justify-items-center ...">
+                <div class="ret1"></div>
+                <div class="ret2"></div>
+                <div class="ret3"></div>
+            </div>
+        </div>
 
     </contents>
 </template>
@@ -124,6 +222,7 @@ export default {
     }
     .exc1 {
         margin-top: 12vh;
+        margin-bottom: 2vh;
     }
     .img2 {
         width: 19vw;
@@ -133,6 +232,11 @@ export default {
         margin-bottom: 12vh;
     }
     .poj1 {   
+        padding-top: 1vh;                
+        color: #120F82;
+        font-size: 1rem;
+        text-decoration: underline;
+        font-family: 'Faustina', serif;
         position: relative;
         width: 40vw;
         left: 30vw;
@@ -157,5 +261,221 @@ export default {
         width: 40px;
         height: 33px;
         box-shadow: -3px 3px #120F82;
+    }
+    .degrad {     
+        background-image: linear-gradient(to right, #120F82, #4105D2, #FF5B6B, #FF7E74, #FAE0FF);
+        height: 60px;
+        margin-bottom: 12vh;
+    }
+    .trap0 {
+        height: 0;
+        width: 0;
+        border-top: 24px solid #fcf7fc;
+        border-right: 98.7vw solid transparent;
+    }
+    .trap1 {
+        padding-top: 12px;
+        height: 0;
+        width: 0;
+        border-bottom: 24px solid #fcf7fc;
+        border-right: 98.7vw solid transparent;
+    }
+    .dali104 {
+        justify-content: center;
+        display: flex;
+    }
+    .tex104 {
+        padding-top: 3vh;
+        color: #120F82;
+        font-weight: 600;
+        font-size: 0.9rem;
+        letter-spacing: 1px;
+        font-family: 'PT Sans', sans-serif;
+        margin: auto;
+        width: 480px;
+    }
+    .tex204 {
+        color: #FF5B6B;
+        font-weight: bold;
+        font-size: 1rem;
+        letter-spacing: 1px;
+        font-family: 'Faustina', serif;
+        margin: auto;
+        width: 480px;
+        padding-bottom: 12vh;
+    }
+    .pet {
+        padding-top: 3vh;
+    }
+    .gro {
+        background: url(./imagens/group104.png);
+        background-repeat: no-repeat;
+        background-size: auto;
+    }
+    .BeS {
+        padding-top: 13vh;
+        font-family: 'Libre Baskerville', serif;
+        color: #FFFDF3;
+        font-size: 7rem;
+        margin: auto;
+        text-align: left;        
+        width: 440px;
+        line-height: 18vh;
+        text-shadow: -3px 6px #FAE0FF, -8px 12px #FF7E74, -15px 19px #FF5B6B;
+    }
+    #tac {
+        width: 28vw;
+        height: auto;
+        padding: 7px;
+    }
+    .carAzu {
+        justify-content: center;
+        margin-top: 0vh;
+        background-color: #120F82;
+        padding-top: 17vh;
+        padding-bottom: 10vh;
+    }
+    .trapezium1 {
+        margin-top: 5vh;
+        height: 0;
+        width: 0;
+        border-bottom: 50px solid #120F82;
+        border-left: 98.7vw solid transparent;
+    }
+    .trapezium2 {
+        height: 0;
+        width: 0;
+        border-top: 25px solid #120F82;
+        border-left: 98.7vw solid transparent;
+    }
+    .d1 {        
+        font-family: 'Raleway', sans-serif;
+        color: #FF5B6B;        
+        font-size: 1.2rem;
+    }
+    .d2 {        
+        font-family: 'PT Serif', serif;
+        color: #120F82;
+        font-size: 1.7rem;
+        font-weight: bold;
+    }
+    #uri {
+        width: 25vw;
+        padding: 2vw;        
+        justify-content: center;
+    }
+    .rod2 {
+        background-image: url(./imagens/arcPB.png);
+        background-size: contain;
+        background-position-x: center;
+        background-repeat: no-repeat;
+        width: 24vw;
+        height: 24vh;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 6vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .fund1 {
+        padding-top: 2vh;
+        padding-bottom: 8vh;
+        background-color: #120F82;
+        /* border-bottom: 1px solid #FAE0FF; */
+    }
+    .da6 {
+        background-image: url(./imagens/daliPB.png);
+        background-size: contain;
+        background-position-y: center;
+        background-position-x: center;
+        background-repeat: no-repeat;
+        width: 10vw;
+        height: 6vh;
+    }
+    .trapezium4 {
+        margin-top: 10vh;
+        height: 0;
+        width: 0;
+        border-bottom: 59px solid #120F82;
+        border-left: 98.7vw solid transparent;
+    }
+    .lef a {
+        font-family: 'Raleway', sans-serif;
+        color: #FF7E74;
+        font-weight: bold;
+        font-size: 0.8rem;         
+        align-items: flex-end;
+        display: inline-flex;
+        padding: 0; 
+        letter-spacing: 1px;        
+    }
+    .lef h7 {
+        color: #6930F5;
+        display: flex;
+        font-size: 1.9rem;       
+        align-items: flex-end;
+        display: inline-flex;
+        padding-left: 0.8vw;
+    } 
+    .oi6 {
+        color: #6930F5;
+        display: flex;
+        font-size: 1.9rem;       
+        align-items: flex-end;
+        display: inline-flex;
+        padding-left: 0.8vw;
+    }
+    .ele1 {
+        background-color: #120F82;
+        padding: 20px;
+        box-shadow: 0px 1px 4px  #FFFDF3;
+    }
+    .ra1{
+        width: 20vw;
+        height: 20vh;
+        margin-top: 3vh;
+        margin-left: 10vw;
+    }
+    .ra1 a{
+        font-family: 'Raleway', sans-serif;
+        color: #FFFDF3;
+        font-size: 0.9rem;
+    }
+    .rex {        
+        align-items: flex-end;
+    }
+    .ret1 {
+        background-image: url(./imagens/Rectangle.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 25vh;
+        width: 7vw;
+        margin-right: 4vw;
+    }
+    .ret2 {
+        background-image: url(./imagens/Rectangle.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 30vh;
+        width: 9vw;
+        margin-right: 1vw;
+    }
+    .ret3 {
+        background-image: url(./imagens/Rectangle.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 20vh;
+        width: 6vw;
+    }
+    .ra2 {        
+        margin-top: 1vh;
+        margin-left: 10vw;
+    }
+    .ra2 a{
+        font-family: 'Raleway', sans-serif;
+        color: #FFFDF3;
+        font-size: 0.9rem;
+        font-weight: bold;
     }
 </style>
