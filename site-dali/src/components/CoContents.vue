@@ -12,7 +12,7 @@
         <div class="img1 border-solid border-2 border-[#120F82] ...">
         </div>
 
-        <div class="exc1 relative overflow-auto" id="dirS"> 
+        <div class="exc1 relative overflow-auto" id="painel"> 
            <div class="max-w-md mx-auto  min-w-0 "> 
             <div class="flex"> 
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
@@ -125,13 +125,13 @@
           </div>
         <div class="barra flex">
             <div class=" ok1">
-                <button class="bot2 rounded-md order-solid border border-[#120F82] ...">&lt;</button>
+                <button id="left" class="bot2 rounded-md order-solid border border-[#120F82] ...">&lt;</button>
             </div>
             <div class=" poj1">
                 <a href="">Ver todos os projetos</a>
             </div>
             <div class=" ok2">
-                <button class="bot2 rounded-md order-solid border border-[#120F82] ...">&gt;</button>
+                <button id="right" class="bot2 rounded-md order-solid border border-[#120F82] ...">&gt;</button>
             </div>
         </div>
 
@@ -334,13 +334,17 @@ export default {
     name: 'CoContents'
 }
 
-/* // Get the button
-let mybutton = document.getElementById("myBtn");
 
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0;
-  document.documentElement.scrollTop = 0; */
+    /* let left = document.getElementById("left");
+    let right = document.getElementById("right");
+    let painel = document.getElementById("painel");
+
+    left.addEventListener("click", function() {
+        painel.scrollLeft -= 100;
+    });
+    right.addEventListener("click", function() {
+        painel.scrollLeft += 100;
+    }); */
 
 </script>
 
@@ -673,13 +677,13 @@ function topFunction() {
         height: 0;
         width: 0;
         border-bottom: 50px solid #120F82;
-        border-left: 98.7vw solid transparent;
+        border-left: 99.4vw solid transparent;
     }
     .trapezium2 {
         height: 0;
         width: 0;
         border-top: 25px solid #120F82;
-        border-left: 98.7vw solid transparent;
+        border-left: 99.4vw solid transparent;
     }
     .d1 {        
         font-family: 'Raleway', sans-serif;
@@ -726,7 +730,7 @@ function topFunction() {
         height: 0;
         width: 0;
         border-bottom: 59px solid #120F82;
-        border-left: 98.7vw solid transparent;
+        border-left: 99.4vw solid transparent;
     }
     .lef a {
         font-family: 'Raleway', sans-serif;
