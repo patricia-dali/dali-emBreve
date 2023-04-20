@@ -12,43 +12,117 @@
         <div class="img1 border-solid border-2 border-[#120F82] ...">
         </div>
 
-        <div class="exc1 relative overflow-auto"> 
+        <div class="exc1 relative overflow-auto" id="dirS"> 
            <div class="max-w-md mx-auto  min-w-0 "> 
             <div class="flex"> 
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
-               <img class="img2" src="./imagens/cardProjet.png"> 
+               <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
+                <img class="fot1" src="./imagens/card1.jpg">
+                    <div class="lot">
+                        <p class="air">air club</p>
+                        <p class="UX">UX/UI design da nova plataforma da startup.</p>
+                        <p class="lore">Lorem Ipsum is simply dummy text of the printing and
+                        typesetting industry. Lorem Ipsum has been the industry's
+                        standard dummy text ever since the 1500s, when an unknown. 
+                        </p>
+                    </div>
+               </div>
               </div> 
              </div> 
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
-               <img class="img2" src="./imagens/cardProjet.png"> 
+               <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
+                <img class="fot1" src="./imagens/card1.jpg">
+                    <div class="lot">
+                        <p class="air">air club</p>
+                        <p class="UX">UX/UI design da nova plataforma da startup.</p>
+                        <p class="lore">Lorem Ipsum is simply dummy text of the printing and
+                        typesetting industry. Lorem Ipsum has been the industry's
+                        standard dummy text ever since the 1500s, when an unknown. 
+                        </p>
+                    </div>
+               </div>
               </div> 
-             </div> 
+             </div>
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
-               <img class="img2" src="./imagens/cardProjet.png"> 
+               <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
+                <img class="fot1" src="./imagens/card1.jpg">
+                    <div class="lot">
+                        <p class="air">air club</p>
+                        <p class="UX">UX/UI design da nova plataforma da startup.</p>
+                        <p class="lore">Lorem Ipsum is simply dummy text of the printing and
+                        typesetting industry. Lorem Ipsum has been the industry's
+                        standard dummy text ever since the 1500s, when an unknown. 
+                        </p>
+                    </div>
+               </div>
               </div> 
-             </div> 
+             </div>
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
-               <img class="img2" src="./imagens/cardProjet.png"> 
+               <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
+                <img class="fot1" src="./imagens/card1.jpg">
+                    <div class="lot">
+                        <p class="air">air club</p>
+                        <p class="UX">UX/UI design da nova plataforma da startup.</p>
+                        <p class="lore">Lorem Ipsum is simply dummy text of the printing and
+                        typesetting industry. Lorem Ipsum has been the industry's
+                        standard dummy text ever since the 1500s, when an unknown. 
+                        </p>
+                    </div>
+               </div>
               </div> 
-             </div> 
+             </div>
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
-               <img class="img2" src="./imagens/cardProjet.png"> 
+               <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
+                <img class="fot1" src="./imagens/card1.jpg">
+                    <div class="lot">
+                        <p class="air">air club</p>
+                        <p class="UX">UX/UI design da nova plataforma da startup.</p>
+                        <p class="lore">Lorem Ipsum is simply dummy text of the printing and
+                        typesetting industry. Lorem Ipsum has been the industry's
+                        standard dummy text ever since the 1500s, when an unknown. 
+                        </p>
+                    </div>
+               </div>
               </div> 
-             </div> 
+             </div>
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
-               <img class="img2" src="./imagens/cardProjet.png"> 
+               <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
+                <img class="fot1" src="./imagens/card1.jpg">
+                    <div class="lot">
+                        <p class="air">air club</p>
+                        <p class="UX">UX/UI design da nova plataforma da startup.</p>
+                        <p class="lore">Lorem Ipsum is simply dummy text of the printing and
+                        typesetting industry. Lorem Ipsum has been the industry's
+                        standard dummy text ever since the 1500s, when an unknown. 
+                        </p>
+                    </div>
+               </div>
+              </div> 
+             </div>
+             <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
+              <div class="flex flex-col items-center justify-center gap-3"> 
+               <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
+                <img class="fot1" src="./imagens/card1.jpg">
+                    <div class="lot">
+                        <p class="air">air club</p>
+                        <p class="UX">UX/UI design da nova plataforma da startup.</p>
+                        <p class="lore">Lorem Ipsum is simply dummy text of the printing and
+                        typesetting industry. Lorem Ipsum has been the industry's
+                        standard dummy text ever since the 1500s, when an unknown. 
+                        </p>
+                    </div>
+               </div>
               </div> 
              </div>
             </div>
            </div>
           </div>
-
         <div class="barra flex">
             <div class=" ok1">
                 <button class="bot2 rounded-md order-solid border border-[#120F82] ...">&lt;</button>
@@ -102,9 +176,43 @@
             
             <div class="trapezium1"></div>   
             <div class="carAzu flex">
-                <img src="./imagens/cardUX.png" id="tac">
-                <img src="./imagens/cardDev.png" id="tac">
-                <img src="./imagens/cardBranding.png" id="tac">
+                <div class="UXcard border-solid rounded-lg border-2 border-[#FAE0FF] ...">
+                    <img class="ta" src="./imagens/UXcard.png">
+                    <div>
+                        <p class="UXcardText1">UX/UI <br>Designer</p>
+                        <p class="UXcardText2">
+                            A melhor experiência imPossível ;) <br><br>
+                            Nosso setor de experiência de usuário tem o objetivo de criar, 
+                            potencializar e manter a melhor navegação entre os usuários de sua plataforma ou aplicativo. 
+                            Intuição, acessibilidade e usabilidade são os pilares para garantir uma melhor aproximação com os seus clientes.
+                        </p>
+                    </div>
+                </div>
+                <div class="DEVcard border-solid rounded-lg border-2 border-[#FF7E74] ...">
+                    <img class="se" src="./imagens/DEVcard.png">
+                    <div>
+                        <p class="DEVcardText1">Desenvolvimento <br>de Software</p>
+                        <p class="DEVcardText2">
+                            Criamos tudo... a pergunta é: em quanto tempo?<br><br>
+                            No setor de programação botamos ideias dos nossos clientes em prática!
+                            Aqui é onde acontece o desenvolvimento de programas, seja de computadores, 
+                            seja de tablets, celulares ou outros equipamentos eletrônicos.
+                        </p>
+                    </div>
+                </div>
+                <div class="BRcard border-solid rounded-lg border-2 border-[#FF5B6B] ...">
+                    <img class="ah" src="./imagens/BRcard.png">
+                    <div>
+                        <p class="BRcardText1">Branding</p>
+                        <div class="grid justify-items-center ...">
+                            <p class="BRcardText2">
+                                Loading...
+                            </p>
+                            <img src="./imagens/loading1.png">
+                        </div>
+                    </div>
+                </div>
+                
             </div>
             <div class="trapezium2"></div>
         </div>
@@ -114,10 +222,67 @@
             <p class="d2">Team</p>
         </div>
 
-        <div class="flex justify-center ...">
-            <img src="./imagens/timeGar.png" id="uri">
-            <img src="./imagens/timeMat.png" id="uri">
-            <img src="./imagens/timeGabi.png" id="uri">
+        <div class="flex justify-evenly ...">
+            <div class="marc">
+                <div class="apre">
+                    <div>
+                        <p class="titulo">Gabriel <br><b>Garcez</b></p> 
+                        <p class="subti">Co-founder & UX/UI</p>  
+                    </div>             
+                    <div class="mix flex justify-end ...">
+                            <a href="">
+                                <img class="icon" src="./imagens/insta.png">
+                            </a>
+                            <a href="">
+                                <img class="icon" src="./imagens/facebook.png">
+                            </a>
+                            <a href="">
+                                <img class="icon" src="./imagens/likedin.png">
+                            </a>
+                    </div>
+                </div>
+                <img class="rounded-md" id="uri" src="./imagens/Garcez.png">
+            </div>
+            <div class="marc">
+                <div class="apre">
+                    <div>
+                        <p class="titulo">Mateus <br><b>Tomé</b></p>                    
+                        <p class="subti">Co-founder & CTO</p> 
+                    </div>
+                    <div class="mix flex justify-end ...">
+                            <a href="">
+                                <img class="icon" src="./imagens/insta.png">
+                            </a>
+                            <a href="">
+                                <img class="icon" src="./imagens/facebook.png">
+                            </a>
+                            <a href="">
+                                <img class="icon" src="./imagens/likedin.png">
+                            </a>
+                    </div>
+                </div>
+                <img class="rounded-md" id="uri" src="./imagens/Mateus.png">
+            </div>
+            <div class="marc">
+                <div class="apre">
+                    <div>
+                        <p class="titulo">Gabriel <br><b>Jereissati</b></p>
+                        <p class="subti">Co-founder & CMO</p> 
+                    </div>
+                    <div class="mix flex justify-end ...">
+                        <a href="">
+                            <img class="icon" src="./imagens/insta.png">
+                        </a>
+                        <a href="">
+                            <img class="icon" src="./imagens/facebook.png">
+                        </a>
+                        <a href="">
+                            <img class="icon" src="./imagens/likedin.png">
+                        </a>
+                    </div>
+                </div>
+                <img class="rounded-md" id="uri" src="./imagens/Gabriel.png">
+            </div>
         </div>
 
 <!-- <div class="rod1 z-10 animate-spin-slow overflow-hidden"></div> -->
@@ -168,6 +333,14 @@
 export default {
     name: 'CoContents'
 }
+
+/* // Get the button
+let mybutton = document.getElementById("myBtn");
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0; */
 
 </script>
 
@@ -224,9 +397,44 @@ export default {
         margin-top: 12vh;
         margin-bottom: 2vh;
     }
-    .img2 {
-        width: 19vw;
+    .carr {
+        color: #120F82;
+        width: 250px;
         height: auto;
+        box-shadow: -4px 4px 0px 0px #120F82;
+    }
+    .fot1 {
+        height: 37vh;
+        object-fit: cover;
+        object-position: 60% 100%;
+        border-bottom: 2px solid #120F82;
+    }
+    .lot {
+        padding-top: 14px;
+        padding-left: 12px;
+    }
+    .air {
+        font-family: 'PT Serif', serif;
+        font-size: 0.6rem;
+        font-weight: bold;
+        padding-bottom: 5px;
+    }
+    .UX {
+        font-family: 'Arvo', serif;
+        font-size: 0.8rem;
+        padding-right: 17px;
+        padding-bottom: 21px;
+        word-spacing: 3px;    
+        letter-spacing: 1px;   
+        line-height: 15px; 
+    }
+    .lore {
+        font-family: 'Raleway', sans-serif;
+        font-size: 0.6rem;
+        letter-spacing: 1px;  
+        word-spacing: 1px; 
+        padding-bottom: 7vh;
+        padding-right: 22px;
     }
     .barra {
         margin-bottom: 12vh;
@@ -323,17 +531,142 @@ export default {
         line-height: 18vh;
         text-shadow: -3px 6px #FAE0FF, -8px 12px #FF7E74, -15px 19px #FF5B6B;
     }
-    #tac {
-        width: 28vw;
-        height: auto;
-        padding: 7px;
-    }
     .carAzu {
         justify-content: center;
         margin-top: 0vh;
         background-color: #120F82;
         padding-top: 17vh;
         padding-bottom: 10vh;
+    }
+    .ta {
+        height: 60px;
+        width: auto;
+    }
+    .UXcard {
+        background-color: #6930F5;
+        width: 310px;
+        height: auto;
+        margin-bottom: 5vh;
+        margin-left: 3vw;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 25px;        
+        box-shadow: -8px 9px 0px 0px #FAE0FF;
+    }
+    .UXcardText1 {
+        font-family: 'Arvo', serif;
+        color: #FAE0FF;
+        font-size: 1.3rem;
+        padding-top: 3vh;
+        padding-bottom: 1vh;
+    }
+    .UXcardText2 {
+        font-family: 'PT Sans', sans-serif;
+        color: #FAE0FF;
+        font-size: 1rem;
+        padding-bottom: 20px;
+    }
+    .se {
+        height: auto;
+        width: 55px;
+    }
+    .DEVcard {
+        background-color: #6930F5;
+        width: 310px;
+        height: auto;
+        margin-bottom: 5vh;
+        margin-left: 3vw;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 42px;        
+        box-shadow: -8px 9px 0px 0px #FF7E74;
+    }
+    .DEVcardText1 {
+        font-family: 'Arvo', serif;
+        color: #FAE0FF;
+        font-size: 1.3rem;
+        padding-top: 3vh;
+        padding-bottom: 1vh;
+    }
+    .DEVcardText2 {
+        font-family: 'PT Sans', sans-serif;
+        color: #FAE0FF;
+        font-size: 1rem;
+        padding-bottom: 20px;
+    }
+    .ah {
+        height: auto;
+        width: 56px;
+    }
+    .BRcard {
+        background-color: #6930F5;
+        width: 310px;
+        height: auto;
+        margin-bottom: 5vh;
+        margin-left: 3vw;
+        padding-left: 15px;
+        padding-right: 15px;
+        padding-top: 30px;        
+        box-shadow: -8px 9px 0px 0px #FF5B6B;
+    }
+    .BRcardText1 {
+        font-family: 'Arvo', serif;
+        color: #FAE0FF;
+        font-size: 1.3rem;
+        padding-top: 3vh;
+        padding-bottom: 1vh;
+    }
+    .BRcardText2 {
+        font-family: 'Arvo', serif;
+        color: #FAE0FF;
+        font-size: 1.6rem;
+        padding-top: 6vh;
+        padding-bottom: 1vh;
+    }
+    .apre {
+        border-top: 2px solid #120F82;
+        border-left: 2px solid #120F82;
+        border-right: 2px solid #120F82;
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .marc {
+        width: auto;
+        height: auto;
+        margin-top: 5vh;
+    }
+    #uri {
+        width: 280px;
+        height: auto;
+    }
+    .icon {
+        width: 20px;
+        height: auto;
+    }
+    .mix {        
+        margin-right: 13px;
+    }
+    .mix a {
+        padding: 5px;
+        margin-bottom: 6px;
+        margin-top: 8px;
+    }
+    .titulo {        
+        font-family: 'Raleway', sans-serif;  
+        font-size: 1.3rem;      
+        line-height: 20px;
+        padding-left: 20px;
+        padding-top: 20px;
+        padding-bottom: 8px;
+        color: #120F82;
+    }
+    .subti {
+        font-family: 'Raleway', sans-serif;
+        font-size: 0.8rem;
+        padding-left: 20px;
+        color: #120F82;
     }
     .trapezium1 {
         margin-top: 5vh;
@@ -358,11 +691,6 @@ export default {
         color: #120F82;
         font-size: 1.7rem;
         font-weight: bold;
-    }
-    #uri {
-        width: 25vw;
-        padding: 2vw;        
-        justify-content: center;
     }
     .rod2 {
         background-image: url(./imagens/arcPB.png);
@@ -404,11 +732,11 @@ export default {
         font-family: 'Raleway', sans-serif;
         color: #FF7E74;
         font-weight: bold;
-        font-size: 0.8rem;         
-        align-items: flex-end;
-        display: inline-flex;
+        font-size: 0.8rem;     
         padding: 0; 
         letter-spacing: 1px;        
+        align-items: center;
+        display: flex;
     }
     .lef h7 {
         color: #6930F5;
@@ -416,7 +744,7 @@ export default {
         font-size: 1.9rem;       
         align-items: flex-end;
         display: inline-flex;
-        padding-left: 0.8vw;
+        padding-left: 0.9vw;
     } 
     .oi6 {
         color: #6930F5;
