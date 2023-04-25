@@ -1,20 +1,18 @@
 <template>
 	<div id="app">
 		<!-- Patrícia Albuquerque -->
-		<CoHeader />
-		<CoContents />
+		<Index />
 		<CoRodape />
 	</div>
 </template>
 
 <script>
-import CoHeader from "./components/CoHeader.vue"
-import CoContents from "./components/CoContents.vue"
-import CoRodape from "./components/CoRodape.vue"
+import Index from "./views/Index.vue"
+import CoRodape from "./components/index/CoRodape.vue"
 
 export default {
 	name: "App",
-	components: { CoHeader, CoContents, CoRodape }
+	components: { Index, CoRodape }
 }
 </script>
 

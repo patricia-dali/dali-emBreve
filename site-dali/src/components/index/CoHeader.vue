@@ -2,10 +2,10 @@
     <header class="header">     
         <div class="grid grid-cols-3">
             <div>
-                <img src="./imagens/LogoDali.png" width="85">
+                <img src="../imagens/LogoDali.png" width="85">
             </div>
             <div class="menu">
-                <a href="">Projetos</a>  
+                <a href="../../Proj.vue">Projetos</a>  
                 <a href="">Sobre</a> 
                 <a href="">Serviços</a>
             </div>

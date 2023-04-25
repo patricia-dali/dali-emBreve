@@ -18,7 +18,7 @@
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
                <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
-                <img class="fot1" src="./imagens/card1.jpg">
+                <img class="fot1" src="../imagens/card1.jpg">
                     <div class="lot">
                         <p class="air">air club</p>
                         <p class="UX">UX/UI design da nova plataforma da startup.</p>
@@ -33,7 +33,7 @@
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
                <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
-                <img class="fot1" src="./imagens/card1.jpg">
+                <img class="fot1" src="../imagens/card1.jpg">
                     <div class="lot">
                         <p class="air">air club</p>
                         <p class="UX">UX/UI design da nova plataforma da startup.</p>
@@ -48,7 +48,7 @@
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
                <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
-                <img class="fot1" src="./imagens/card1.jpg">
+                <img class="fot1" src="../imagens/card1.jpg">
                     <div class="lot">
                         <p class="air">air club</p>
                         <p class="UX">UX/UI design da nova plataforma da startup.</p>
@@ -63,7 +63,7 @@
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
                <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
-                <img class="fot1" src="./imagens/card1.jpg">
+                <img class="fot1" src="../imagens/card1.jpg">
                     <div class="lot">
                         <p class="air">air club</p>
                         <p class="UX">UX/UI design da nova plataforma da startup.</p>
@@ -78,7 +78,7 @@
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
                <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
-                <img class="fot1" src="./imagens/card1.jpg">
+                <img class="fot1" src="../imagens/card1.jpg">
                     <div class="lot">
                         <p class="air">air club</p>
                         <p class="UX">UX/UI design da nova plataforma da startup.</p>
@@ -93,7 +93,7 @@
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
                <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
-                <img class="fot1" src="./imagens/card1.jpg">
+                <img class="fot1" src="../imagens/card1.jpg">
                     <div class="lot">
                         <p class="air">air club</p>
                         <p class="UX">UX/UI design da nova plataforma da startup.</p>
@@ -108,7 +108,7 @@
              <div class="flex-none py-6 px-3 first:pl-6 last:pr-6"> 
               <div class="flex flex-col items-center justify-center gap-3"> 
                <div class="carr border-solid rounded-lg border-2 border-[#120F82] ...">
-                <img class="fot1" src="./imagens/card1.jpg">
+                <img class="fot1" src="../imagens/card1.jpg">
                     <div class="lot">
                         <p class="air">air club</p>
                         <p class="UX">UX/UI design da nova plataforma da startup.</p>
@@ -142,7 +142,7 @@
 
         <div>
             <div class="dali104">
-                <img src="./imagens/dali104.png" width="350">
+                <img src="../imagens/dali104.png" width="350">
             </div>
             <div class="tex104 text-left ...">
                 <p class="pet">
@@ -177,7 +177,7 @@
             <div class="trapezium1"></div>   
             <div class="carAzu flex">
                 <div class="UXcard border-solid rounded-lg border-2 border-[#FAE0FF] ...">
-                    <img class="ta" src="./imagens/UXcard.png">
+                    <img class="ta" src="../imagens/UXcard.png">
                     <div>
                         <p class="UXcardText1">UX/UI <br>Designer</p>
                         <p class="UXcardText2">
@@ -189,7 +189,7 @@
                     </div>
                 </div>
                 <div class="DEVcard border-solid rounded-lg border-2 border-[#FF7E74] ...">
-                    <img class="se" src="./imagens/DEVcard.png">
+                    <img class="se" src="../imagens/DEVcard.png">
                     <div>
                         <p class="DEVcardText1">Desenvolvimento <br>de Software</p>
                         <p class="DEVcardText2">
@@ -201,14 +201,14 @@
                     </div>
                 </div>
                 <div class="BRcard border-solid rounded-lg border-2 border-[#FF5B6B] ...">
-                    <img class="ah" src="./imagens/BRcard.png">
+                    <img class="ah" src="../imagens/BRcard.png">
                     <div>
                         <p class="BRcardText1">Branding</p>
                         <div class="grid justify-items-center ...">
                             <p class="BRcardText2">
                                 Loading...
                             </p>
-                            <img src="./imagens/loading1.png">
+                            <img src="../imagens/loading1.png">
                         </div>
                     </div>
                 </div>
@@ -231,17 +231,17 @@
                     </div>             
                     <div class="mix flex justify-end ...">
                             <a href="">
-                                <img class="icon" src="./imagens/insta.png">
+                                <img class="icon" src="../imagens/insta.png">
                             </a>
                             <a href="">
-                                <img class="icon" src="./imagens/facebook.png">
+                                <img class="icon" src="../imagens/facebook.png">
                             </a>
                             <a href="">
-                                <img class="icon" src="./imagens/likedin.png">
+                                <img class="icon" src="../imagens/likedin.png">
                             </a>
                     </div>
                 </div>
-                <img class="rounded-md" id="uri" src="./imagens/Garcez.png">
+                <img class="rounded-md" id="uri" src="../imagens/Garcez.png">
             </div>
             <div class="marc">
                 <div class="apre">
@@ -251,17 +251,17 @@
                     </div>
                     <div class="mix flex justify-end ...">
                             <a href="">
-                                <img class="icon" src="./imagens/insta.png">
+                                <img class="icon" src="../imagens/insta.png">
                             </a>
                             <a href="">
-                                <img class="icon" src="./imagens/facebook.png">
+                                <img class="icon" src="../imagens/facebook.png">
                             </a>
                             <a href="">
-                                <img class="icon" src="./imagens/likedin.png">
+                                <img class="icon" src="../imagens/likedin.png">
                             </a>
                     </div>
                 </div>
-                <img class="rounded-md" id="uri" src="./imagens/Mateus.png">
+                <img class="rounded-md" id="uri" src="../imagens/Mateus.png">
             </div>
             <div class="marc">
                 <div class="apre">
@@ -271,58 +271,17 @@
                     </div>
                     <div class="mix flex justify-end ...">
                         <a href="">
-                            <img class="icon" src="./imagens/insta.png">
+                            <img class="icon" src="../imagens/insta.png">
                         </a>
                         <a href="">
-                            <img class="icon" src="./imagens/facebook.png">
+                            <img class="icon" src="../imagens/facebook.png">
                         </a>
                         <a href="">
-                            <img class="icon" src="./imagens/likedin.png">
+                            <img class="icon" src="../imagens/likedin.png">
                         </a>
                     </div>
                 </div>
-                <img class="rounded-md" id="uri" src="./imagens/Gabriel.png">
-            </div>
-        </div>
-
-<!-- <div class="rod1 z-10 animate-spin-slow overflow-hidden"></div> -->
-
-        <div class="trapezium4"></div> 
-        <div class="fund1">
-            <div class="rod2">
-                <div class="da6 flex justify-center ...">
-                </div>
-            </div>
-            <div class="grid grid-cols-7 justify-items-center ...">
-                <div class="lef flex"><a href="">Web Site</a><h7>●</h7></div>
-                <div class="lef flex"><a href="">Aplicativo</a><h7>●</h7></div>
-                <div class="lef flex"><a href="">UX Design</a><h7>●</h7></div>
-                <div class="lef flex"><a href="">UI Design</a><h7>●</h7></div>
-                <div class="lef flex"><a href="">Product Development</a><h7>●</h7></div>
-                <div class="lef flex"><a href="">Web Site</a><h7>●</h7></div>
-                <div class="lef flex"><a href="">Aplicativo</a><h7>●</h7></div>
-            </div>
-        </div>
-        
-        <div class="ele1 grid grid-cols-2">
-            <div>
-                <div class="ra1 grid grid-cols-2"> 
-                    <a href="">Projetos</a>
-                    <a href="">Sobre nós</a>
-                    <a href="">Serviços</a>
-                    <a href="">Time</a>
-                    <a href="">LinkedIn</a>
-                    <a href="">Instagram</a>
-                    <a href="">Twitter</a>
-                </div>
-                <div class="ra2">
-                    <a href="">Contato</a>
-                </div>
-            </div>
-            <div class="rex flex justify-items-center ...">
-                <div class="ret1"></div>
-                <div class="ret2"></div>
-                <div class="ret3"></div>
+                <img class="rounded-md" id="uri" src="../imagens/Gabriel.png">
             </div>
         </div>
 
@@ -356,12 +315,12 @@ export default {
     }
     .text1 {
         font-size: 3.7rem;
-        line-height: 10vh;
+        line-height: 11vh;
         margin-left: 6%;
         padding-bottom: 5vh;
     }
-    h1 {
-        font-family: 'Raleway', sans-serif;
+    h1 {        
+        font-family: 'ofelia-text';
         letter-spacing: 1px;
         color: #FF5B6B;
     }
@@ -370,13 +329,13 @@ export default {
         color: #6930F5;
     }
     h3 {
-        font-family: 'Raleway', sans-serif;
+        font-family: 'ofelia-text';
         letter-spacing: 1px;
         word-spacing: 20px;
         color: #6930F5;
     }
     .img1 {
-        background-image: url(./imagens/Component1.png);
+        background-image: url(../imagens/Component1.png);
         border-radius: 10px;
         box-shadow: -9px 9px 0px -1px #FF5B6B;
         box-sizing: content-box;
@@ -389,7 +348,7 @@ export default {
     }
     .rod1 {
         position: absolute;
-        background-image: url(./imagens/Arc.png);
+        background-image: url(../imagens/Arc.png);
         background-size: cover;
         top: 33vh;
         right: 0;
@@ -433,7 +392,7 @@ export default {
         line-height: 15px; 
     }
     .lore {
-        font-family: 'Raleway', sans-serif;
+        font-family: 'ofelia-text';
         font-size: 0.6rem;
         letter-spacing: 1px;  
         word-spacing: 1px; 
@@ -502,7 +461,7 @@ export default {
         font-weight: 600;
         font-size: 0.9rem;
         letter-spacing: 1px;
-        font-family: 'PT Sans', sans-serif;
+        font-family: 'ofelia-text';
         margin: auto;
         width: 480px;
     }
@@ -511,7 +470,7 @@ export default {
         font-weight: bold;
         font-size: 1rem;
         letter-spacing: 1px;
-        font-family: 'Faustina', serif;
+        font-family: 'ofelia-text';
         margin: auto;
         width: 480px;
         padding-bottom: 12vh;
@@ -520,7 +479,7 @@ export default {
         padding-top: 3vh;
     }
     .gro {
-        background: url(./imagens/group104.png);
+        background: url(../imagens/group104.png);
         background-repeat: no-repeat;
         background-size: auto;
     }
@@ -562,13 +521,13 @@ export default {
         color: #FAE0FF;
         font-size: 1.3rem;
         padding-top: 3vh;
-        padding-bottom: 1vh;
+        padding-bottom: 1.3vh;
     }
     .UXcardText2 {
-        font-family: 'PT Sans', sans-serif;
+        font-family: 'ofelia-text';
         color: #FAE0FF;
-        font-size: 1rem;
-        padding-bottom: 20px;
+        font-size: 0.8rem;
+        padding-bottom: 18px;
     }
     .se {
         height: auto;
@@ -593,10 +552,10 @@ export default {
         padding-bottom: 1vh;
     }
     .DEVcardText2 {
-        font-family: 'PT Sans', sans-serif;
+        font-family: 'ofelia-text';
         color: #FAE0FF;
-        font-size: 1rem;
-        padding-bottom: 20px;
+        font-size: 0.8rem;
+        padding-bottom: 18px;
     }
     .ah {
         height: auto;
@@ -640,6 +599,7 @@ export default {
         width: auto;
         height: auto;
         margin-top: 5vh;
+        margin-bottom: 3vh;
     }
     #uri {
         width: 280px;
@@ -658,16 +618,18 @@ export default {
         margin-top: 8px;
     }
     .titulo {        
-        font-family: 'Raleway', sans-serif;  
-        font-size: 1.3rem;      
+        font-family: 'ofelia-text';
+        font-size: 1.2rem;      
         line-height: 20px;
         padding-left: 20px;
+        letter-spacing: 1px;
         padding-top: 20px;
         padding-bottom: 8px;
         color: #120F82;
     }
     .subti {
-        font-family: 'Raleway', sans-serif;
+        font-family: 'ofelia-text';
+        letter-spacing: 2px;
         font-size: 0.8rem;
         padding-left: 20px;
         color: #120F82;
@@ -696,118 +658,5 @@ export default {
         font-size: 1.7rem;
         font-weight: bold;
     }
-    .rod2 {
-        background-image: url(./imagens/arcPB.png);
-        background-size: contain;
-        background-position-x: center;
-        background-repeat: no-repeat;
-        width: 24vw;
-        height: 24vh;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 6vh;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-    .fund1 {
-        padding-top: 2vh;
-        padding-bottom: 8vh;
-        background-color: #120F82;
-        /* border-bottom: 1px solid #FAE0FF; */
-    }
-    .da6 {
-        background-image: url(./imagens/daliPB.png);
-        background-size: contain;
-        background-position-y: center;
-        background-position-x: center;
-        background-repeat: no-repeat;
-        width: 10vw;
-        height: 6vh;
-    }
-    .trapezium4 {
-        margin-top: 10vh;
-        height: 0;
-        width: 0;
-        border-bottom: 59px solid #120F82;
-        border-left: 99.4vw solid transparent;
-    }
-    .lef a {
-        font-family: 'Raleway', sans-serif;
-        color: #FF7E74;
-        font-weight: bold;
-        font-size: 0.8rem;     
-        padding: 0; 
-        letter-spacing: 1px;        
-        align-items: center;
-        display: flex;
-    }
-    .lef h7 {
-        color: #6930F5;
-        display: flex;
-        font-size: 1.9rem;       
-        align-items: flex-end;
-        display: inline-flex;
-        padding-left: 0.9vw;
-    } 
-    .oi6 {
-        color: #6930F5;
-        display: flex;
-        font-size: 1.9rem;       
-        align-items: flex-end;
-        display: inline-flex;
-        padding-left: 0.8vw;
-    }
-    .ele1 {
-        background-color: #120F82;
-        padding: 20px;
-        box-shadow: 0px 1px 4px  #FFFDF3;
-    }
-    .ra1{
-        width: 20vw;
-        height: 20vh;
-        margin-top: 3vh;
-        margin-left: 10vw;
-    }
-    .ra1 a{
-        font-family: 'Raleway', sans-serif;
-        color: #FFFDF3;
-        font-size: 0.9rem;
-    }
-    .rex {        
-        align-items: flex-end;
-    }
-    .ret1 {
-        background-image: url(./imagens/Rectangle.png);
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 25vh;
-        width: 7vw;
-        margin-right: 4vw;
-    }
-    .ret2 {
-        background-image: url(./imagens/Rectangle.png);
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 30vh;
-        width: 9vw;
-        margin-right: 1vw;
-    }
-    .ret3 {
-        background-image: url(./imagens/Rectangle.png);
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 20vh;
-        width: 6vw;
-    }
-    .ra2 {        
-        margin-top: 1vh;
-        margin-left: 10vw;
-    }
-    .ra2 a{
-        font-family: 'Raleway', sans-serif;
-        color: #FFFDF3;
-        font-size: 0.9rem;
-        font-weight: bold;
-    }
+    
 </style>
